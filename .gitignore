@@ -11,5 +11,5 @@
 /build
 /captures
 .externalNativeBuild
-.cxx
+.java
 local.properties
